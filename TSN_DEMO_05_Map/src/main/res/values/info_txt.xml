@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">ТЦ и Магазины</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Торговые центры и магазины города Павлодар.</b> <BR>
+
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">12 месяцев</string>
+    <string name="marker1_txt_click">DIY-ритейлер №1 в Казахстане.</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>DIY-ритейлер №1 в Казахстане.</b><BR>
+        <b>12 МЕСЯЦЕВ</b> — национальная компания-ритейлер, лидер Казахстана в сфере товаров для строительства, отделки и обустройства дома, дачи и сада.<BR>
+
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/dvenadcatmesyacev/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Sulpak</string>
+    <string name="marker2_txt_click">Sulpak – крупнейшая торговая компания Казахстана, лидер в реализации электроники и бытовой техники.</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Sulpak</b> является участник европейского закупочного кооператива Euronics, который объединяет 29 розничных организаций из 36 стран мира, что позволяет компании оперативно реагировать на мировые тренды покупательского спроса и своевременно поставлять казахстанцам самые популярные новинки электро-бытовой техники и электроники.
+        <BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/sulpak/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Technodom</string>
+    <string name="marker3_txt_click">Technodom</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>TECHNODOM</b> включает 82 магазинов и 93 ПВЗ (пункты выдачи заказов). Общая торговая площадь составляет 94 320 кв. метров в 28-и городах республики. Компания, продолжающая свое активное развитие, открыта для всего нового и прогрессивного.<BR>
+        ]]>
+        </string>
+
+    <string name="marker3_file">file:///android_asset/INEU/index.html</string>
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Inmart</string>
+    <string name="marker4_txt_click">Inmart</string>
+    <string name="marker4_info">
+        <![CDATA[
+        Сеть супермаркетов <b>INMART</b> является крупной торговой сетью супермаркетов в Республике Казахстан. В настоящее время открыты десятки супермаркетов INMART во многих городах Казахстана. Супермаркеты самообслуживания располагаются в шаговой доступности и способны удовлетворить ежедневный спрос покупателей с максимально выгодными ценами, продукцией собственного производства и хорошим ассортиментом товаров.<BR>
+        ]]>
+        </string>
+
+    <string name="marker4_file">file:///android_asset/inmart/index.html</string>
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Small</string>
+    <string name="marker5_txt_click">Small</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>SMALL</b> - Красивые и уютные магазины с дизайнерским оформлением для тех, кто хочет совершать покупки максимально комфортно. Первый премиальный магазин был открыт в 2018 году. На данный момент в Казахстане 11 магазинов SMALL данного формата, в 2021 году планируется открытие еще трех<BR>
+        ]]>
+        </string>
+
+    <string name="marker5_file">file:///android_asset/small/index.html</string>
+
+    <string name="marker6_id">m6</string>
+    <string name="marker6_title">Fix Price</string>
+    <string name="marker6_txt_click">Fix Price</string>
+    <string name="marker6_info">
+        <![CDATA[
+         <b>Fix Price</b> - это международная сеть магазинов для всей семьи с широким ассортиментом товаров для дома по низким фиксированным ценам!<BR>
+        ]]>
+        </string>
+
+    <string name="marker6_file">file:///android_asset/fixprice/index.html</string>
+</resources>
